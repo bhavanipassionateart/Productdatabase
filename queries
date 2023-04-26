@@ -1,0 +1,2 @@
+select * from stores join Stores_inventory 
+on stores.stores_id=Stores_inventory.stores_id;
